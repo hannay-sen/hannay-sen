@@ -1,4 +1,6 @@
-# A Computer Science student in California, interested in building
+A Computer Science student in California, interested in building
 systems that process real-world data and recognize patterns.
+Currently working on AI & ML research!
+
 
 📫 Reach me at [hannaysen.hs@gmail.com](mailto:hannaysen.hs@gmail.com)
