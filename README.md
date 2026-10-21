@@ -10,9 +10,9 @@
 - love museums, tennis and anything aesthetic
 
 ### What I did?
-- SAT prep tutor, tutoring since high school, worked toward a career in Ed-tech organizations like code.ai & the coder school
-- background in pharmacy
-- 3 years volunteering at a nonprofit, where I built an in-person project on a quality eduaction for war-affected areas
+- SAT prep tutor, tutoring since high school, worked toward a career at Ed-tech organizations such as code.org & the coder school
+- background in Pharmaceutical Sciences & Pharmacology 
+- 3 years volunteering at nonprofits, where I built an in-person project on a quality eduaction for war-affected areas
 
 ### Now?
 
