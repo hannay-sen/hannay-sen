@@ -20,7 +20,7 @@
 - working on med-tech projects
 - interested in data science and robotics
   
-### ✦ tech
+### Tech
 ![C++](https://img.shields.io/badge/C++-4C1D95?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6A2FB8?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white)
