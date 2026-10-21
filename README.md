@@ -23,13 +23,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-5B21B6?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-### ✦ stats
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=hannay-sen&show_icons=true&bg_color=0b0620&title_color=c084fc&icon_color=a78bfa&text_color=e9d5ff&border_color=4a2394)
-
-</div>
-
 <div align="center">
 
 📫 [hannaysen.hs@gmail.com](mailto:hannaysen.hs@gmail.com)
