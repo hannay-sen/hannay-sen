@@ -6,14 +6,20 @@
 
 </div>
 
-### ✦ about me
-- 🏛️ i love museums, tennis 🎾 and anything aesthetic
-- 📚 SAT prep tutor, tutoring since high school, working toward a career in Ed-tech
-- 💊 background in pharmacy
-- 🌍 3 years volunteering at a nonprofit, where i built an in-person project on a sustainability equation for war-affected areas
-- 🎓 currently studying, based in the Bay Area
-- 🤖 interested in data science and robotics
+### About me
+- love museums, tennis and anything aesthetic
 
+### What I did?
+- SAT prep tutor, tutoring since high school, worked toward a career in Ed-tech organizations like code.ai & the coder school
+- background in pharmacy
+- 3 years volunteering at a nonprofit, where I built an in-person project on a quality eduaction for war-affected areas
+
+### Now?
+
+- currently studying CS in bay area, U.S.
+- working on med-tech projects
+- interested in data science and robotics
+  
 ### ✦ tech
 ![C++](https://img.shields.io/badge/C++-4C1D95?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6A2FB8?style=for-the-badge&logo=python&logoColor=white)
@@ -25,6 +31,6 @@
 
 <div align="center">
 
-📫 [hannaysen.hs@gmail.com](mailto:hannaysen.hs@gmail.com)
+[hannaysen.hs@gmail.com](mailto:hannaysen.hs@gmail.com)
 
 </div>
