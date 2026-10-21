@@ -51,7 +51,7 @@
 
   <!-- text -->
   <text x="64" y="168" font-family="Verdana, sans-serif" font-size="18" letter-spacing="3" fill="#b794f4">
-     Enchante! I'm Hannay...
+     Enchantè! I'm Hannay...
     <animate attributeName="opacity" values="0;1" dur="3s" fill="freeze"/>
   </text>
 </svg>
